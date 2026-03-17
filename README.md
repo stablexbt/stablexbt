@@ -26,6 +26,16 @@
 - Stablecoin rails & clearing infrastructure @ **[rem.money](https://rem.money)** (2025–Present)  
   → Turning real-world finance into fast, borderless, efficient money movement
 
+| Category              | Core Technologies & Tools                                                                 | Experience Level / Notes                                      |
+|-----------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| **Web3 / Blockchain** | Solidity • Rust • EVM • Solana • Smart Contracts • Tokenomics & Economics                 | Expert: DeFi primitives (perps, yield farms, stablecoins, NFTs, prediction markets, x402) |
+| **Backend / Systems** | Rust • Python • Node.js • PostgreSQL • MongoDB • SQLite • Docker • Unix/DevOps            | High-performance infra, APIs and scalable systems |
+| **Frontend / Full-Stack** | JavaScript/TypeScript • React.js • Next.js  • Tailwind                                | DApps, responsive UIs for crypto products                     |
+| **DeFi & Crypto**     | Yield farming • Perpetual swaps • Staking • Stablecoin rails • Clearing houses            | Obsessed with efficiency in markets & on-chain logic          |
+| **Emerging**          | AI Agents & tooling • Open-source • AI & vibes                                            | Exploring intersection with crypto & real-world utility       |
+| **Other Domains**     | Blockchain architecture • Consensus mechanisms • System design • Pilot implementations    | From brain simulations to gas pipelines to telecom pilots     |
+
+
 ### 🌱 I’m currently learning...
 - Advanced AI agents & tooling  
 - Deeper health & fitness optimization  
