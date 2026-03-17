@@ -23,7 +23,7 @@
 </div>
 
 ### 🔭 I’m currently working on...
-- Stablecoin rails & clearing infrastructure @ **[rem.money](https://rem.money)** (2025–Present)  
+- Stablecoin rails & clearing infrastructure @ **[rem.money](https://rem.money)**
   → Turning real-world finance into fast, borderless, efficient money movement
 
 | Category              | Core Technologies & Tools                                                                 | Experience Level / Notes                                      |
