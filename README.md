@@ -10,7 +10,7 @@
   **Stablecoin 4tw** 🚀
 
   Building the rails for the future of money at **[rem.money](https://rem.money)**  
-  Clearing house + stablecoin infrastructure for banks & businesses
+  Agentic payments + stablecoin infrastructure for banks & businesses
 
   <br/>
 
@@ -23,7 +23,7 @@
 </div>
 
 ### 🔭 I’m currently working on...
-- Stablecoin rails & clearing infrastructure @ **[rem.money](https://rem.money)**
+- Stablecoin rails & agentic payments @ **[rem.money](https://rem.money)**
   → Turning real-world finance into fast, borderless, efficient money movement
 
 | Category              | Core Technologies & Tools                                                                 | Experience Level / Notes                                      |
