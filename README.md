@@ -26,6 +26,8 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,rust,python,html,css,react,next,tailwind,mysql,postgresql,graphql,aws,docker,linux,wasm,solidity,ai&perline=9)](https://skillicons.dev)
 
+</div>
+
 ### 🔭 I’m currently working on...
 - Stablecoin rails & agentic payments @ **[rem.money](https://rem.money)**
   → Turning real-world finance into fast, borderless, efficient money movement
